@@ -1,0 +1,14 @@
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\bin\Debug\DockPanel.exe.config
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\bin\Debug\DockPanel.exe
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\bin\Debug\DockPanel.pdb
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\MainWindow.g.cs
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\App.g.cs
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel_MarkupCompile.cache
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel_MarkupCompile.lref
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\MainWindow.baml
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel.g.resources
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel.Properties.Resources.resources
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel.csproj.GenerateResource.cache
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel.csproj.CoreCompileInputs.cache
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel.exe
+C:\Users\fbdesigns\source\repos\practicum2\DockPanel\obj\Debug\DockPanel.pdb

@@ -1,0 +1,14 @@
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\MainWindow.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\App.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.cache
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.lref
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\MainWindow.baml
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop.g.resources
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\fbdesigns\source\repos\practicum3\DragAndDrop\obj\Debug\DragAndDrop.pdb

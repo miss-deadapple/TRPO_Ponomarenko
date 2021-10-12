@@ -1,0 +1,14 @@
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\bin\Debug\TextBox.exe.config
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\bin\Debug\TextBox.exe
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\bin\Debug\TextBox.pdb
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\MainWindow.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\App.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox_MarkupCompile.cache
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox_MarkupCompile.lref
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\MainWindow.baml
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox.g.resources
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox.exe
+C:\Users\fbdesigns\source\repos\practicum3\TextBox\obj\Debug\TextBox.pdb

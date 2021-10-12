@@ -1,0 +1,14 @@
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\bin\Debug\WPFMouseEvent.exe.config
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\bin\Debug\WPFMouseEvent.exe
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\bin\Debug\WPFMouseEvent.pdb
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\MainWindow.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\App.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent_MarkupCompile.cache
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent_MarkupCompile.lref
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\MainWindow.baml
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent.g.resources
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent.Properties.Resources.resources
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent.csproj.GenerateResource.cache
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent.csproj.CoreCompileInputs.cache
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent.exe
+C:\Users\fbdesigns\source\repos\practicum3\WPFMouseEvent\obj\Debug\WPFMouseEvent.pdb

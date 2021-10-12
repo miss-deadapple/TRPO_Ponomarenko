@@ -1,0 +1,22 @@
+﻿<Window x:Class="Variant3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Variant3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="22"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="5" Orientation="Horizontal">
+            <TextBlock Margin="5" Text="Clear text" />
+            <Button Background="DarkCyan" x:Name="lstEditingMode" VerticalAlignment="Bottom" HorizontalAlignment="Stretch"  Margin="0,0,10,0" Height="21" Width="36" Click="lstEditingMode_Click"/>
+        </StackPanel>
+        <TextBox x:Name="text" Grid.Row="1" Text="Enter text" GotFocus="TextBox_GotFocus"/>
+
+    </Grid>
+</Window>

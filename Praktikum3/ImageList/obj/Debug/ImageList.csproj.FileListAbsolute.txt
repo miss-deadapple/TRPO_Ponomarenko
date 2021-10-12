@@ -1,0 +1,14 @@
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\bin\Debug\ImageList.exe
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\bin\Debug\ImageList.pdb
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\MainWindow.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\App.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList_MarkupCompile.cache
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList_MarkupCompile.lref
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\MainWindow.baml
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList.g.resources
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList.exe
+C:\Users\fbdesigns\source\repos\practicum3\ImageList\obj\Debug\ImageList.pdb

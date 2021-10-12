@@ -1,0 +1,15 @@
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.csproj.AssemblyReference.cache
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\MainWindow.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\App.g.cs
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2_MarkupCompile.cache
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2_MarkupCompile.lref
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\bin\Debug\Variant2.exe.config
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\bin\Debug\Variant2.exe
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\bin\Debug\Variant2.pdb
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\MainWindow.baml
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.g.resources
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.Properties.Resources.resources
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.csproj.GenerateResource.cache
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.csproj.CoreCompileInputs.cache
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.exe
+C:\Users\fbdesigns\source\repos\practicum3\Variant2\obj\Debug\Variant2.pdb
