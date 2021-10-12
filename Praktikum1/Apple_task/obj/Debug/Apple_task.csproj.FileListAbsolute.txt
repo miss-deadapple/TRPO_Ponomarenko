@@ -1,0 +1,15 @@
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\bin\Debug\Apple_task.exe.config
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\bin\Debug\Apple_task.exe
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\bin\Debug\Apple_task.pdb
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.csprojAssemblyReference.cache
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\MainWindow.g.cs
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\App.g.cs
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task_MarkupCompile.cache
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task_MarkupCompile.lref
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\MainWindow.baml
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.g.resources
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.Properties.Resources.resources
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.csproj.GenerateResource.cache
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.csproj.CoreCompileInputs.cache
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.exe
+C:\Users\Elizaveta\Desktop\ТРПО\практикум 1\Apple_task\obj\Debug\Apple_task.pdb

@@ -1,0 +1,15 @@
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.csprojAssemblyReference.cache
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\MainWindow.g.cs
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\App.g.cs
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla_MarkupCompile.cache
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla_MarkupCompile.lref
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\bin\Debug\Tri_chisla.exe.config
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\bin\Debug\Tri_chisla.exe
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\bin\Debug\Tri_chisla.pdb
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\MainWindow.baml
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.g.resources
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.Properties.Resources.resources
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.csproj.GenerateResource.cache
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.csproj.CoreCompileInputs.cache
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.exe
+C:\Users\Elizaveta\source\repos\Tri_chisla\Tri_chisla\obj\Debug\Tri_chisla.pdb

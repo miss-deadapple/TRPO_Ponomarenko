@@ -1,0 +1,16 @@
+﻿<Window x:Class="Byte_to_kB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Byte_to_kB"
+        mc:Ignorable="d"
+        Title="Преобразование байтов в килобайты" Height="254.634" Width="492.683">
+    <Grid>
+        <Label Content="Введите количество байт" HorizontalAlignment="Left" Margin="147,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="Преобразовать байты в килобайты" HorizontalAlignment="Left" Margin="133,106,0,0" VerticalAlignment="Top" Width="205" Height="35" Click="Button_Click"/>
+        <TextBox KeyDown="Text_KeyDown" HorizontalAlignment="Left" Height="23" Margin="156,63,0,0" TextWrapping="Wrap" Name="text" VerticalAlignment="Top" Width="140"/>
+        <Label Name="kilob" HorizontalAlignment="Left" Margin="70,160,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
