@@ -1,0 +1,75 @@
+﻿<Window x:Class="CreateAuthorize.View.SignUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:CreateAuthorize.View"
+        xmlns:vm="clr-namespace:CreateAuthorize.ViewModel"
+        mc:Ignorable="d"
+        Title="SignUpWindow" Height="500" Width="400">
+    <Window.DataContext>
+        <vm:SignUpViewModel />
+    </Window.DataContext>
+    <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Margin="20px 0">
+        <Label
+            FontSize="20px"
+            >Регистрация</Label>
+        <TextBox
+            FontSize="16px"
+            Margin="0 8px"
+            Padding="8px"
+            MinWidth="200px"
+            Text="{Binding loginValue, UpdateSourceTrigger=PropertyChanged}"
+            MouseEnter="CleanTextField_OnMouseEnter"
+            MouseLeave="ReturnTextField_OnMouseLeave"
+        />
+        <TextBox
+            FontSize="16px"
+            Margin="0 8px"
+            Padding="8px"
+            MinWidth="200px"
+            Text="{Binding passwordValue, UpdateSourceTrigger=PropertyChanged}"
+            MouseEnter="CleanTextField_OnMouseEnter"
+            MouseLeave="ReturnTextField_OnMouseLeave"
+        />
+        <TextBox
+            FontSize="16px"
+            Margin="0 8px"
+            Padding="8px"
+            MinWidth="200px"
+            Text="{Binding lastNameValue, UpdateSourceTrigger=PropertyChanged}"
+            MouseEnter="CleanTextField_OnMouseEnter"
+            MouseLeave="ReturnTextField_OnMouseLeave"
+        />
+        <TextBox
+            FontSize="16px"
+            Margin="0 8px"
+            Padding="8px"
+            MinWidth="200px"
+            Text="{Binding firstNameValue, UpdateSourceTrigger=PropertyChanged}"
+            MouseEnter="CleanTextField_OnMouseEnter"
+            MouseLeave="ReturnTextField_OnMouseLeave"
+        />
+        <TextBox
+            FontSize="16px"
+            Margin="0 8px"
+            Padding="8px"
+            MinWidth="200px"
+            Text="{Binding middleNameValue, UpdateSourceTrigger=PropertyChanged}"
+            MouseEnter="CleanTextField_OnMouseEnter"
+            MouseLeave="ReturnTextField_OnMouseLeave"
+        />
+        <Button
+            FontSize="18px"
+            Margin="0 8px"
+            Padding="8px"
+            Command="{Binding SignUpButton}"
+        >Зарегистрироваться</Button>
+        <TextBlock
+            FontSize="18px"
+            Margin="0 8px"
+            Text="{Binding signUpStatusValue}"
+            Padding="8px"
+            />
+    </WrapPanel>
+</Window>
